@@ -1,0 +1,7 @@
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\obj\Debug\wlanProfileDel.csproj.AssemblyReference.cache
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\obj\Debug\wlanProfileDel.csproj.CoreCompileInputs.cache
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\bin\Debug\wlanProfileDel.exe.config
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\bin\Debug\wlanProfileDel.exe
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\bin\Debug\wlanProfileDel.pdb
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\obj\Debug\wlanProfileDel.exe
+C:\Users\hacko\source\repos\wlanProfileDel\wlanProfileDel\obj\Debug\wlanProfileDel.pdb
