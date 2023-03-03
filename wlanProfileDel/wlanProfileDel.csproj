@@ -53,6 +53,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>latest</LangVersion> <!-- apply the lates C# version -->
   </PropertyGroup>
 </Project>
