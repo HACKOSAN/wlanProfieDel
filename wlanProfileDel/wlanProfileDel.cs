@@ -9,13 +9,13 @@ using System.Diagnostics;
     // its frickin 2:47 AM, srlsy you should start paying me..
 
 Process process = new Process();
-process.StartInfo.FileName = "netsh.exe";
-process.StartInfo.Arguments = "wlan delete profile name=*";
+process.StartInfo.FileName = "netsh.exe"; //command name
+process.StartInfo.Arguments = "wlan delete profile name=*"; //command args
 process.StartInfo.UseShellExecute = false;
 process.StartInfo.RedirectStandardOutput = true;
-process.Start();
+process.Start(); // excute
 
 string output = process.StandardOutput.ReadToEnd();
-    process.WaitForExit();
+    process.WaitForExit(); //exists directly after excution
 
 
